@@ -1,0 +1,12 @@
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\domain\Channel.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\repository\ChatMessageRepository.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\ChatApplication.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\domain\ChatMessage.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\rest\ChatMessageController.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\rest\ChannelController.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\RequestLoggingFilter.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\repository\ChannelRepository.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\service\ChatMessageService.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\InitDatabaseOnStartupRunner.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\service\ChannelNotFoundException.java
+C:\n\git\codecamp\chat-app-clean\services\src\main\java\com\senacor\code\fullstack\chat\service\ChannelService.java

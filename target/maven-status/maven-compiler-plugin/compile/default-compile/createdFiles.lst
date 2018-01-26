@@ -1,0 +1,12 @@
+com\senacor\code\fullstack\chat\domain\ChatMessage.class
+com\senacor\code\fullstack\chat\service\ChannelService.class
+com\senacor\code\fullstack\chat\InitDatabaseOnStartupRunner.class
+com\senacor\code\fullstack\chat\rest\ChannelController.class
+com\senacor\code\fullstack\chat\ChatApplication.class
+com\senacor\code\fullstack\chat\repository\ChannelRepository.class
+com\senacor\code\fullstack\chat\service\ChatMessageService.class
+com\senacor\code\fullstack\chat\repository\ChatMessageRepository.class
+com\senacor\code\fullstack\chat\rest\ChatMessageController.class
+com\senacor\code\fullstack\chat\RequestLoggingFilter.class
+com\senacor\code\fullstack\chat\domain\Channel.class
+com\senacor\code\fullstack\chat\service\ChannelNotFoundException.class

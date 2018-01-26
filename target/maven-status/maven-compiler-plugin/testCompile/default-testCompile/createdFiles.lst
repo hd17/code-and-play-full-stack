@@ -1,0 +1,9 @@
+com\senacor\code\fullstack\chat\ChatApplicationTests.class
+com\senacor\code\fullstack\chat\repository\ChatMessageRepositoryIT.class
+com\senacor\code\fullstack\chat\rest\ChannelControllerTest.class
+com\senacor\code\fullstack\chat\service\ChannelServiceTest.class
+com\senacor\code\fullstack\chat\rest\ChatMessageControllerTest.class
+com\senacor\code\fullstack\chat\repository\ChannelRepositoryIT.class
+com\senacor\code\fullstack\chat\rest\ChatMessageControllerIT.class
+com\senacor\code\fullstack\chat\rest\ChannelControllerIT.class
+com\senacor\code\fullstack\chat\service\ChatMessageServiceTest.class
